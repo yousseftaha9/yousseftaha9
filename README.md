@@ -44,12 +44,6 @@ I've worked on a variety of academic projects that simulate real-world systems a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousseftaha9&show_icons=true&theme=github_dark" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftaha9&layout=compact&theme=github_dark" width="47%"/>
-</p>
 
 
 
@@ -59,7 +53,7 @@ I've worked on a variety of academic projects that simulate real-world systems a
 
 I'm always happy to meet fellow developers, collaborate on exciting ideas, or just chat about tech.
 
-- 📧 Email: [youssef.taha9.dev@gmail.com](mailto:youssefmtaha9999@gmail.com)
+- 📧 Email: [youssefmtaha9999@gmail.com](mailto:youssefmtaha9999@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yousseftaha9]([https://linkedin.com/in/yousseftaha9](https://www.linkedin.com/in/youssef-mohamed-taha/))
 
 ---
